@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E COMMERCE DATABASE ANALYSIS</title>
+</head>
+
+<body>
+    <h1>Understand the structure, components, and significance of databases in the e-commerce ecosystem.</h1>
+    <ul>
+        <li>1.Analyze customer behavior and purchasing patterns.
+            2.Optimize inventory management and product recommendations.
+            3.Enhance customer experience through personalized insights.
+            4.Support business decisions with data-driven insights.
+       </li>
+        <li>1.Calculate the monthly sales of the of the store and identify which month had the highest sales and which month had the lowest sales.
+            2.Analyse sales based on product categories and determine which category has the lowest sales and which category has the highest sales.
+            3.Sales analysis needs to be done based on the sub categories.
+            4.Analyse the monthly profit from sales and determine which month had the highest profit.
+            5.Analyse the profit by category and sub category.
+            6.Analyse the sales and profit by customer segment.
+            7.Analyse the sales to profit ratio.
+      </li>
+        <li>Technologies and tools used</li>
+        <li>Expected outcomes and deliverables</li>
+        <li>Timeline and milestones</li>
+    </ul>
+</body>
+
+</html>
 
